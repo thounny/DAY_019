@@ -71,7 +71,7 @@ const updateParallax = (mouse) => {
 };
 ```
 
-**Explanation**
+**Explanation**:
 
 - **Parallax Movement**: The images in the menu react to the user's mouse movement, shifting and rotating to create a 3D effect.
 - **Depth and Interaction**: This effect gives the menu a more immersive feel, enhancing user engagement.
@@ -133,7 +133,7 @@ DAY_019/
 
 ## Author
 
-![Logo](./assets/thounny_logo.png)
+![Logo](./assets/index_dwn.gif)
 
 **Thounny Keo**  
 Creative Developer & Designer
